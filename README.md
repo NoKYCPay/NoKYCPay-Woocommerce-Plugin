@@ -69,6 +69,13 @@ Please open an [issue]([https://github.com/yourname/nokycpay/issues](https://git
 
 ---
 
+## Disclaimer
+
+This repository contains source code for Nokycpay.  
+The code is provided **“as is”**, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.  
+
+---
+
 ## 📄 License
 
 This plugin is licensed under the [GPL v2 or later](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).  
